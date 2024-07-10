@@ -24,5 +24,5 @@ I'm a **self-taught web developer** passionate about creating dynamic and user-f
 ## 📫 Get in Touch
 
 - **Email**: Victor_verq@outlook.com
-- **LinkedIn**: https://www.linkedin.com/in/victor-hugo-vera-molina-1243a22a7/
+- **LinkedIn**: https://www.linkedin.com/in/victor-vera-dev/
 - **My Portfolio**: https://victorportfolio.xyz/
