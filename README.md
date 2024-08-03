@@ -20,6 +20,7 @@ I'm a **self-taught web developer** passionate about creating dynamic and user-f
 - Zustand
 - MySQL
 - Git, Github
+- WordPress
 
 ## 📫 Get in Touch
 
